@@ -1,7 +1,4 @@
-# ML_Monitoring
-![](Model_monitoring.png)
-
-Practical framework of monitoring an End-End ML Loan prediction model using Airflow and Docker
+# Loan Prediction
 
 # Pre-requisites
 
